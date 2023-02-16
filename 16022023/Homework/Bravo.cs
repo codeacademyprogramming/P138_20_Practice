@@ -42,7 +42,7 @@ namespace Homework
             _products[_products.Length - 1] = product;
         }
 
-        public bool HasProductByNo(int no)
+        public bool HasProductByNo(string no)
         {
             foreach (var item in Products)
             {
@@ -67,7 +67,7 @@ namespace Homework
             return wantedProducts;
         }
 
-        public Product GetProductByNo(int no)
+        public Product GetProductByNo(string no)
         {
             foreach (var item in Products)
             {

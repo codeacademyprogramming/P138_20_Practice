@@ -9,7 +9,7 @@ namespace Homework
         Product[] Products { get; set; }
         void AddProduct(Product product);
         Product[] Search(string search);
-        bool HasProductByNo(int no);
-        Product GetProductByNo(int no);
+        bool HasProductByNo(string no);
+        Product GetProductByNo(string no);
     }
 }

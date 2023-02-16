@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\21. 16-02-2023\\16022023\\Homework\\Homework.csproj": {}
+    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\21. 16-02-2023\\P138_20_Practice\\16022023\\Homework\\Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\21. 16-02-2023\\16022023\\Homework\\Homework.csproj": {
+    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\21. 16-02-2023\\P138_20_Practice\\16022023\\Homework\\Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\21. 16-02-2023\\16022023\\Homework\\Homework.csproj",
+        "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\21. 16-02-2023\\P138_20_Practice\\16022023\\Homework\\Homework.csproj",
         "projectName": "Homework",
-        "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\21. 16-02-2023\\16022023\\Homework\\Homework.csproj",
+        "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\21. 16-02-2023\\P138_20_Practice\\16022023\\Homework\\Homework.csproj",
         "packagesPath": "C:\\Users\\Eagha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\21. 16-02-2023\\16022023\\Homework\\obj\\",
+        "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\21. 16-02-2023\\P138_20_Practice\\16022023\\Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eagha\\AppData\\Roaming\\NuGet\\NuGet.Config",
